@@ -95,6 +95,7 @@ width="200" height="200"></a>
 ```
 
 ## OUTPUT
+![234328712-9152ada9-0ad8-40c7-b4d3-9e369fc131d5](https://github.com/Premkumar171223/Ex04_Web-Design/assets/127816632/dc33430b-e0ef-4ffa-9b36-57fbd9beb65a)
 
 
 ## RESULT
